@@ -1,7 +1,7 @@
 
 ## React.js First Blood
 
-![Rampage!](./perfect.png)
+![Rampage!](./godmode.png)
 
 You need a first blood to killing spree.
 Otherwords, this is how i start web projects.
@@ -58,7 +58,9 @@ with redux/router connected
 ## :poop: :point_up: :point_up_2: :dash: :wavy_dash: TODO:
 - [x] Base architechture
 - [x] Base tools
-- [ ]
+- [ ] Reselect example
+- [ ] Example of complex sagas/stores structure
+- [ ] Tools for creating stores, sagas
 - [ ] Interactive tools with options
 - [ ] GraphQL things (Apollo)
 - [ ] SVG Animation utils
