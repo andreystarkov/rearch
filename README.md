@@ -24,7 +24,7 @@ This is how i start web projects.
 ## :wavy_dash: Usage :gun: :bath: :smoking: :hocho: :
 
 ```bash
- $ git clone  https://github.com/andreystarkov/react-first-blood ./ProjectName
+ $ git clone https://github.com/andreystarkov/react-first-blood ./ProjectName
  $ cd ./ProjectName
  $ npm i
  $ npm start
