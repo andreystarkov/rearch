@@ -1,5 +1,5 @@
 
-## React.js First Blood
+## React.js First Blood Kit
 
 ![Rampage!](./godmode.png)
 
@@ -32,7 +32,7 @@ Otherwords, this is how i start web projects.
  $ npm start
 ```
 
-## :wavy_dash: Make build :bomb: :santa: :fork_and_knife: :money_with_wings:
+## :wavy_dash: Build :bomb: :santa: :fork_and_knife: :money_with_wings:
 
 ```bash
  $ npm run build
