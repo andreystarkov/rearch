@@ -53,7 +53,7 @@ You can use it from anywhere like:
 ```
 Don't forget about:
 ```bash
-  $ chmod +X ./*.sh
+  $ chmod +x ./*.sh
 ```
 
 ## :poop: :point_up: :point_up_2: :dash: :wavy_dash: TODO:
