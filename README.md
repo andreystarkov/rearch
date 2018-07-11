@@ -1,31 +1,32 @@
-# React.js First Blood Kit
+# React.js Killing Spree Kit
 
 This is how i start web projects.
 
 ![Rampage!](./godmode.png)
 
-### Stack:
-- React
-- React router
-- Redux
-- Reduxsauce
-- Redux persist
-- Reselect
-- Seamless immutable
-- Apisauce
-- Styled components
-- ESLint
-- Anime.js
-- Standard codestyle
+### :hocho: Stack:
+- React :feelsgood:
+- React router :finnadie:
+- Redux :goberserk:
+- Redux saga :godmode:
+- Redux persist :hurtrealbad:
+- Reselect :hurtrealbad:
+- Seamless immutable :rage1:
+- Reduxsauce :rage2:
+- Apisauce :rage3:
+- Styled components :rage4:
+- Anime.js :suspect:
+- ESLint :trollface:
+- Standard codestyle :godmode:
 
-### Usage:
+### :gun: Usage:
 
 ```bash
   npm i
   npm start
 ```
 
-### Make build
+### :bomb: Make build
 
 ```bash
   npm run build

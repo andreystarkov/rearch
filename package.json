@@ -1,19 +1,17 @@
 {
   "name": "react-first-blood",
   "version": "0.0.1",
-  "description": "React FB",
+  "description": "React killing spree kit",
   "repository": {
     "type": "git",
     "url": "https://github.com/andreystarkov/react-first-blood"
   },
-  "author": "Andrey Starkov",
+  "author": "Andrey Starkov <im@andreystarkov.ru>",
   "private": true,
   "dependencies": {
     "animejs": "^2.2.0",
     "apisauce": "^0.14.3",
-    "color": "^3.0.0",
     "faker": "^4.1.0",
-    "moment": "^2.22.2",
     "object-assign": "4.1.1",
     "ramda": "^0.25.0",
     "react": "^16.4.0",
