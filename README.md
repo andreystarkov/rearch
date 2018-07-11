@@ -56,7 +56,7 @@ Don't forget about:
   $ chmod +x ./*.sh
 ```
 
-## :poop: :point_up: :point_up_2: :dash: :wavy_dash: TODO:
+## :wavy_dash: TODO :poop: :point_up: :point_up_2: :dash: 
 - [x] Base architechture
 - [x] Base tools
 - [ ] More examples
