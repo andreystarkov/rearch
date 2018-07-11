@@ -21,7 +21,7 @@ This is how i start web projects.
 :goberserk: ESLint<br />
 :godmode: Standard codestyle
 
-## :wavy_dash: Usage :gun: :bath: :smoking: :hocho: :
+## :wavy_dash: Usage :gun: :bath: :smoking: :hocho:
 
 ```bash
  $ git clone https://github.com/andreystarkov/react-first-blood ./ProjectName
@@ -36,7 +36,7 @@ This is how i start web projects.
  $ npm run build
 ```
 
-## :wavy_dash: Tools :nose: :electric_plug: :eggplant: :hammer: :cop: 
+## :wavy_dash: Tools :nose: :electric_plug: :eggplant: :hammer:
 
 #### This creates a new [export ready](https://github.com/andreystarkov/create-index-exports) empty component:
 ```bash
@@ -63,3 +63,4 @@ Don't forget about:
 - [ ] Interactive tools with options
 - [ ] GraphQL things (Apollo)
 
+ :cop: 
