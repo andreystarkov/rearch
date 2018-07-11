@@ -1,23 +1,23 @@
 # React.js Killing Spree Kit
 
-This is how i start web projects.
-
 ![Rampage!](./godmode.png)
 
+This is how i start web projects.
+
 ### :hocho: Stack:
-- React :feelsgood:
-- React router :finnadie:
-- Redux :goberserk:
-- Redux saga :godmode:
-- Redux persist :hurtrealbad:
-- Reselect :hurtrealbad:
-- Seamless immutable :rage1:
-- Reduxsauce :rage2:
-- Apisauce :rage3:
-- Styled components :rage4:
-- Anime.js :suspect:
-- ESLint :trollface:
-- Standard codestyle :godmode:
+:feelsgood: React
+:finnadie: React router
+:goberserk: Redux
+:godmode: Redux saga
+:hurtrealbad: Redux persist
+:goberserk: Reselect
+:rage1: Seamless immutable
+:rage2: Reduxsauce
+:rage3: Apisauce
+:rage4: Styled components
+:suspect: Anime.js
+:goberserk: ESLint
+:godmode: Standard codestyle
 
 ### :gun: Usage:
 
