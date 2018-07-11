@@ -7,20 +7,20 @@ You need a first blood to killing spree.
 Otherwords, this is how i start web projects.
 
 ### :wavy_dash: Stack :hocho: :baby_chick: :chicken: :two_men_holding_hands:
-:feelsgood: :small_orange_diamond: React<br />
-:finnadie: :small_orange_diamond: React router<br />
-:rage4: :small_orange_diamond: Styled components<br />
-:goberserk: :small_orange_diamond: Redux<br />
-:rage2: :small_orange_diamond: Reduxsauce<br />
-:rage1: :small_orange_diamond: Seamless immutable<br />
-:hurtrealbad: :small_orange_diamond: Redux persist<br />
-:godmode: :small_orange_diamond: Redux saga<br />
-:rage3: :small_orange_diamond: Apisauce<br />
-:goberserk: :small_orange_diamond: Reselect<br />
-:finnadie: :small_orange_diamond: Ramda<br />
-:suspect: :small_orange_diamond: Anime.js<br />
-:goberserk: :small_orange_diamond: ESLint<br />
-:godmode: :small_orange_diamond: Standard codestyle<br >
+:small_red_triangle_down: :feelsgood: :small_orange_diamond: React<br />
+:small_red_triangle_down: :finnadie: :small_orange_diamond: React router<br />
+:small_red_triangle_down: :rage4: :small_orange_diamond: Styled components<br />
+:small_red_triangle_down: :goberserk: :small_orange_diamond: Redux<br />
+:small_red_triangle_down: :rage2: :small_orange_diamond: Reduxsauce<br />
+:small_red_triangle_down: :rage1: :small_orange_diamond: Seamless immutable<br />
+:small_red_triangle_down: :hurtrealbad: :small_orange_diamond: Redux persist<br />
+:small_red_triangle_down: :godmode: :small_orange_diamond: Redux saga<br />
+:small_red_triangle_down: :rage3: :small_orange_diamond: Apisauce<br />
+:small_red_triangle_down: :goberserk: :small_orange_diamond: Reselect<br />
+:small_red_triangle_down: :finnadie: :small_orange_diamond: Ramda<br />
+:small_red_triangle_down: :suspect: :small_orange_diamond: Anime.js<br />
+:small_red_triangle_down: :goberserk: :small_orange_diamond: ESLint<br />
+:small_red_triangle_down: :godmode: :small_orange_diamond: Standard codestyle<br >
 
 ## :wavy_dash: Usage :gun: :bath: :smoking: :hocho: :
 
