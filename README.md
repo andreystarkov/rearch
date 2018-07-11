@@ -1,8 +1,8 @@
 
-# React.js Killing Spree Kit 
+# React.js First Blood & Killing Spree Kit 
 
 ![Rampage!](./godmode.png)
-___
+
 This is how i start web projects.
 
 ### :wavy_dash: Stack :hocho: :baby_chick: :chicken: :two_men_holding_hands:
