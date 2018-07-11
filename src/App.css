@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,400i,600,700,900&subset=cyrillic');
+
+body {
+  font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+body, html {
+  overflow-x: hidden;
+  background-color: #0e0e30;
+}

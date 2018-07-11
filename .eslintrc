@@ -1,0 +1,30 @@
+{
+  "parser": "babel-eslint",
+  "env": {
+    "es6": true,
+    "browser": true,
+    "node": true
+  },
+  "extends": [
+    "standard",
+    "plugin:react/recommended"
+  ],
+  "plugins": [
+    "react"
+  ],
+  "parserOptions": {
+    "ecmaFeatures": {
+      "jsx": true
+    }
+  },
+  "rules": {
+    "no-undef": 1,
+    "no-unused-vars": 1,
+    "space-before-function-parent": 0,
+    "react/prop-types": 0,
+    "camelcase": 0,
+    "eol-last": 1,
+    "no-multiple-empty-lines": 1,
+    "comma-dangle": 1
+  }
+}
