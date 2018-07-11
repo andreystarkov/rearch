@@ -1,66 +1,66 @@
 
-# React.js First Blood & Killing Spree Kit 
+## React.js First Blood
 
-![Rampage!](./godmode.png)
+![Rampage!](./perfect.png)
 
-This is how i start web projects.
+You need a first blood to killing spree.
+Otherwords, this is how i start web projects.
 
 ### :wavy_dash: Stack :hocho: :baby_chick: :chicken: :two_men_holding_hands:
-:feelsgood: React<br />
-:finnadie: React router<br />
-:goberserk: Redux<br />
-:godmode: Redux saga<br />
-:hurtrealbad: Redux persist<br />
-:goberserk: Reselect<br />
-:finnadie: Ramda<br />
-:rage1: Seamless immutable<br />
-:rage2: Reduxsauce<br />
-:rage3: Apisauce<br />
-:rage4: Styled components<br />
-:suspect: Anime.js<br />
-:goberserk: ESLint<br />
-:godmode: Standard codestyle
+:feelsgood: :small_orange_diamond: React<br />
+:finnadie: :small_orange_diamond: React router<br />
+:rage4: :small_orange_diamond: Styled components<br />
+:goberserk: :small_orange_diamond: Redux<br />
+:rage2: :small_orange_diamond: Reduxsauce<br />
+:rage1: :small_orange_diamond: Seamless immutable<br />
+:hurtrealbad: :small_orange_diamond: Redux persist<br />
+:godmode: :small_orange_diamond: Redux saga<br />
+:rage3: :small_orange_diamond: Apisauce<br />
+:goberserk: :small_orange_diamond: Reselect<br />
+:finnadie: :small_orange_diamond: Ramda<br />
+:suspect: :small_orange_diamond: Anime.js<br />
+:goberserk: :small_orange_diamond: ESLint<br />
+:godmode: :small_orange_diamond: Standard codestyle<br >
 
-## :wavy_dash: Usage :gun: :bath: :smoking: :hocho:
+## :wavy_dash: Usage :gun: :bath: :smoking: :hocho: :
 
 ```bash
- $ git clone https://github.com/andreystarkov/react-first-blood ./ProjectName
+ $ git clone  https://github.com/andreystarkov/react-first-blood ./ProjectName
  $ cd ./ProjectName
+ $ chmod +X ./*.sh
  $ npm i
  $ npm start
 ```
 
-## :wavy_dash: Make build :bomb: :santa: :fork_and_knife: :money_with_wings: 
+## :wavy_dash: Make build :bomb: :santa: :fork_and_knife: :money_with_wings:
 
 ```bash
  $ npm run build
 ```
 
-## :wavy_dash: Tools :nose: :electric_plug: :eggplant: :hammer:
+## :wavy_dash: Tools :nose: :electric_plug: :eggplant: :hammer: :cop:
 
-#### This creates a new [export ready](https://github.com/andreystarkov/create-index-exports) empty component:
+#### Create a new empty, [export ready](https://github.com/andreystarkov/create-index-exports) component:
 ```bash
  $ ./component.sh SomeComponent
 ```
-You can use it from anywhere like:
+Now you can use it from anywhere like:
 ```js
   import { SomeComponent } from 'Components'
 ```
 
-#### This creates an empty screen with redux/router connected:
+#### Create an empty top-level route
+with redux/router connected
 ```bash
   ./screen.sh SomeScreen
 ```
-Don't forget about:
-```bash
-  $ chmod +x ./*.sh
-```
 
-## :wavy_dash: TODO :poop: :point_up: :point_up_2: :weary:
+## :poop: :point_up: :point_up_2: :dash: :wavy_dash: TODO:
 - [x] Base architechture
 - [x] Base tools
-- [ ] More examples
+- [ ]
 - [ ] Interactive tools with options
 - [ ] GraphQL things (Apollo)
+- [ ] SVG Animation utils
+- [ ] Prettier?
 
- :cop: 
