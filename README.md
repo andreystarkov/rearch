@@ -7,20 +7,20 @@ You need a first blood to killing spree.
 Otherwords, this is how i start web projects.
 
 ### :wavy_dash: Stack :hocho: :baby_chick: :chicken: :two_men_holding_hands:
-:small_red_triangle_down: :feelsgood: :small_orange_diamond: React<br />
-:small_red_triangle_down: :finnadie: :small_orange_diamond: React router<br />
-:small_red_triangle_down: :rage4: :small_orange_diamond: Styled components<br />
-:small_red_triangle_down: :goberserk: :small_orange_diamond: Redux<br />
-:small_red_triangle_down: :rage2: :small_orange_diamond: Reduxsauce<br />
-:small_red_triangle_down: :rage1: :small_orange_diamond: Seamless immutable<br />
-:small_red_triangle_down: :hurtrealbad: :small_orange_diamond: Redux persist<br />
-:small_red_triangle_down: :godmode: :small_orange_diamond: Redux saga<br />
-:small_red_triangle_down: :rage3: :small_orange_diamond: Apisauce<br />
-:small_red_triangle_down: :goberserk: :small_orange_diamond: Reselect<br />
-:small_red_triangle_down: :finnadie: :small_orange_diamond: Ramda<br />
-:small_red_triangle_down: :suspect: :small_orange_diamond: Anime.js<br />
-:small_red_triangle_down: :goberserk: :small_orange_diamond: ESLint<br />
-:small_red_triangle_down: :godmode: :small_orange_diamond: Standard codestyle<br >
+:small_orange_diamond: :feelsgood: :small_red_triangle: React<br />
+:small_orange_diamond: :finnadie: :small_red_triangle_down: React router<br />
+:small_orange_diamond: :rage4: :small_red_triangle: Styled components<br />
+:small_orange_diamond: :goberserk: :small_red_triangle_down: Redux<br />
+:small_orange_diamond: :rage2: :small_red_triangle: Reduxsauce<br />
+:small_orange_diamond: :rage1: :small_red_triangle_down: Seamless immutable<br />
+:small_orange_diamond: :hurtrealbad: :small_red_triangle: Redux persist<br />
+:small_orange_diamond: :godmode: :small_red_triangle_down: Redux saga<br />
+:small_orange_diamond: :rage3: :small_red_triangle: Apisauce<br />
+:small_orange_diamond: :goberserk: :small_red_triangle_down: Reselect<br />
+:small_orange_diamond: :finnadie: :small_red_triangle: Ramda<br />
+:small_orange_diamond: :suspect: :small_red_triangle: Anime.js<br />
+:small_orange_diamond: :goberserk: :small_red_triangle_down: ESLint<br />
+:small_orange_diamond: :godmode: :small_red_triangle: Standard codestyle<br >
 
 ## :wavy_dash: Usage :gun: :bath: :smoking: :hocho: :
 
