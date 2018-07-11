@@ -44,13 +44,13 @@ Otherwords, this is how i start web projects.
 ```bash
  $ ./component.sh SomeComponent
 ```
-Now you can use it from anywhere like:
+Now you can use it from anywhere, like:
 ```js
   import { SomeComponent } from 'Components'
 ```
 
 #### Create an empty top-level route
-with redux/router connected
+With redux/router connected
 ```bash
   ./screen.sh SomeScreen
 ```
