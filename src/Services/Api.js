@@ -5,7 +5,7 @@ const create = (apiUrl) => {
   const config = {
     baseURL: apiUrl || ApiConfig.baseUrl,
     headers: {
-      'Cache-Control': 'no-cache'
+      // 'Cache-Control': 'no-cache'
     },
     timeout: 10000
   }
@@ -19,8 +19,10 @@ const create = (apiUrl) => {
   // get methods
   //
   // const getSome = (some) => api.get('some/method', { some })
+  const getRepos = (user) => api.get(`users/${user}/repos`)
 
   return {
+    getRepos,
     setHeader
   }
 }

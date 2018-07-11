@@ -9,8 +9,7 @@ export const MainTypes = Types
 export default Creators
 
 export const MAIN_INITIAL_STATE = {
-  isWhatever: false
-  // your initial state
+  repos: []
 }
 
 export const INITIAL_STATE = Immutable(MAIN_INITIAL_STATE)
