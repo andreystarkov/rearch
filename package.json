@@ -1,7 +1,7 @@
 {
   "name": "react-first-blood",
   "version": "0.0.1",
-  "description": "React killing spree kit",
+  "description": "React killing spree starter kit",
   "repository": {
     "type": "git",
     "url": "https://github.com/andreystarkov/react-first-blood"
@@ -12,6 +12,7 @@
     "animejs": "^2.2.0",
     "apisauce": "^0.14.3",
     "faker": "^4.1.0",
+    "moment": "^2.22.2",
     "object-assign": "4.1.1",
     "ramda": "^0.25.0",
     "react": "^16.4.0",
