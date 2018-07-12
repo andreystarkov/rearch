@@ -1,5 +1,5 @@
 
-## React.js First Blood Kit
+# React.js First Blood Kit
 
 ![Rampage!](./godmode.png)
 
@@ -55,7 +55,7 @@ With redux/router connected
   ./screen.sh SomeScreen
 ```
 
-## :poop: :point_up: :point_up_2: :dash: :wavy_dash: TODO:
+## :wavy_dash: TODO: :poop: :point_up: :point_up_2: :tired_face: 
 - [x] Base architechture
 - [x] Base tools
 - [ ] Reselect example
