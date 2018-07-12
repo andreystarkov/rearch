@@ -38,7 +38,7 @@ Otherwords, this is how i start web projects.
  $ npm run build
 ```
 
-## :wavy_dash: Tools :nose: :electric_plug: :eggplant: :hammer: :cop:
+## :wavy_dash: Tools :nose: :electric_plug: :eggplant: :hammer:
 
 #### :small_blue_diamond: Create a new empty, [export ready](https://github.com/andreystarkov/create-index-exports) component:
 ```bash
@@ -65,4 +65,6 @@ With redux/router connected
 - [ ] GraphQL things (Apollo)
 - [ ] SVG Animation utils
 - [ ] Prettier?
+
+:cop:
 
