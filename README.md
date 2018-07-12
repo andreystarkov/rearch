@@ -40,7 +40,7 @@ Otherwords, this is how i start web projects.
 
 ## :wavy_dash: Tools :nose: :electric_plug: :eggplant: :hammer: :cop:
 
-#### Create a new empty, [export ready](https://github.com/andreystarkov/create-index-exports) component:
+#### :small_blue_diamond: Create a new empty, [export ready](https://github.com/andreystarkov/create-index-exports) component:
 ```bash
  $ ./component.sh SomeComponent
 ```
@@ -49,7 +49,7 @@ Now you can use it from anywhere, like:
   import { SomeComponent } from 'Components'
 ```
 
-#### Create an empty top-level route
+#### :small_blue_diamond: Create an empty top-level route
 With redux/router connected
 ```bash
   ./screen.sh SomeScreen
