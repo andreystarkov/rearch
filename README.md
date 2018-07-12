@@ -55,7 +55,7 @@ With redux/router connected
   ./screen.sh SomeScreen
 ```
 
-## :wavy_dash: TODO: :poop: :point_up: :point_up_2: :tired_face: 
+## :wavy_dash: TODO :poop: :point_up: :point_up_2: :weary:
 - [x] Base architechture
 - [x] Base tools
 - [ ] Reselect example
