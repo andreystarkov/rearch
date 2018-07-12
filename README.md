@@ -22,7 +22,7 @@ Otherwords, this is how i start web projects.
 :small_orange_diamond: :goberserk: :small_red_triangle_down: ESLint<br />
 :small_orange_diamond: :godmode: :small_red_triangle: Standard codestyle<br >
 
-## :wavy_dash: Usage :gun: :bath: :smoking: :hocho: :
+## :wavy_dash: Usage :gun: :bath: :smoking: :point_down:
 
 ```bash
  $ git clone  https://github.com/andreystarkov/react-first-blood ./ProjectName
