@@ -17,8 +17,8 @@ Otherwords, this is how i start web projects.
 :godmode: Redux saga<br />
 :rage3: Apisauce<br />
 :goberserk: Reselect<br />
-:finnadie: :small_red_triangle: Ramda<br />
-:suspect: :small_red_triangle: Anime.js<br />
+:finnadie: Ramda<br />
+:suspect: Anime.js<br />
 :goberserk: ESLint<br />
 :godmode: Standard codestyle<br >
 
