@@ -6,7 +6,7 @@
 You need a first blood to killing spree.
 Otherwords, this is how i start web projects.
 
-### :wavy_dash: Stack :hocho: 
+### :wavy_dash: Stack
 :feelsgood: React<br />
 :finnadie: React router<br />
 :rage4: :small_red_triangle: Styled components<br />
@@ -22,9 +22,7 @@ Otherwords, this is how i start web projects.
 :goberserk: ESLint<br />
 :godmode: :small_red_triangle: Standard codestyle<br >
 
-:baby_chick: :chicken: :two_men_holding_hands:
-
-## :wavy_dash: Usage :gun:
+## :wavy_dash: Usage 
 
 ```bash
  $ git clone  https://github.com/andreystarkov/react-first-blood ./ProjectName
@@ -34,17 +32,13 @@ Otherwords, this is how i start web projects.
  $ npm start
 ```
 
- :bath: :smoking: :point_down:
-
-## :wavy_dash: Build :bomb:
+## :wavy_dash: Build 
 
 ```bash
  $ npm run build
 ```
 
-:santa: :fork_and_knife: :money_with_wings:
-
-## :wavy_dash: Tools :nose: :electric_plug: :eggplant: :hammer:
+## :wavy_dash: Tools
 
 #### :small_blue_diamond: Create a new empty, [export ready](https://github.com/andreystarkov/create-index-exports) component:
 ```bash
@@ -72,5 +66,11 @@ With redux/router connected
 - [ ] SVG Animation utils
 - [ ] Prettier?
 
-:cop:
+
+ :hocho: :baby_chick: :chicken: :two_men_holding_hands:
+ :gun: :bath: :smoking: :point_down:
+ :bomb: :santa: :fork_and_knife: :money_with_wings:
+ :nose: :electric_plug: :eggplant: :hammer:
+
+ :cop:
 
