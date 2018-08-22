@@ -6,21 +6,23 @@
 You need a first blood to killing spree.
 Otherwords, this is how i start web projects.
 
-### :wavy_dash: Stack :hocho:
+### :wavy_dash: Stack :hocho: 
 :feelsgood: React<br />
-:small_orange_diamond: :finnadie: :small_red_triangle_down: React router<br />
-:small_orange_diamond: :rage4: :small_red_triangle: Styled components<br />
-:small_orange_diamond: :goberserk: :small_red_triangle_down: Redux<br />
-:small_orange_diamond: :rage2: :small_red_triangle: Reduxsauce<br />
-:small_orange_diamond: :rage1: :small_red_triangle_down: Seamless immutable<br />
-:small_orange_diamond: :hurtrealbad: :small_red_triangle: Redux persist<br />
-:small_orange_diamond: :godmode: :small_red_triangle_down: Redux saga<br />
-:small_orange_diamond: :rage3: :small_red_triangle: Apisauce<br />
-:small_orange_diamond: :goberserk: :small_red_triangle_down: Reselect<br />
-:small_orange_diamond: :finnadie: :small_red_triangle: Ramda<br />
-:small_orange_diamond: :suspect: :small_red_triangle: Anime.js<br />
-:small_orange_diamond: :goberserk: :small_red_triangle_down: ESLint<br />
-:small_orange_diamond: :godmode: :small_red_triangle: Standard codestyle<br >
+:finnadie: React router<br />
+:rage4: :small_red_triangle: Styled components<br />
+:goberserk: Redux<br />
+:rage2: :small_red_triangle: Reduxsauce<br />
+:rage1: Seamless immutable<br />
+:hurtrealbad: :small_red_triangle: Redux persist<br />
+:godmode: Redux saga<br />
+:rage3: :small_red_triangle: Apisauce<br />
+:goberserk: Reselect<br />
+:finnadie: :small_red_triangle: Ramda<br />
+:suspect: :small_red_triangle: Anime.js<br />
+:goberserk: ESLint<br />
+:godmode: :small_red_triangle: Standard codestyle<br >
+
+:baby_chick: :chicken: :two_men_holding_hands:
 
 ## :wavy_dash: Usage :gun:
 
@@ -32,13 +34,15 @@ Otherwords, this is how i start web projects.
  $ npm start
 ```
 
+ :bath: :smoking: :point_down:
+
 ## :wavy_dash: Build :bomb:
 
 ```bash
  $ npm run build
 ```
 
-:santa: :fork_and_knife: :money_with_wings: :baby_chick: :chicken: :two_men_holding_hands: :bath: :smoking: :point_down:
+:santa: :fork_and_knife: :money_with_wings:
 
 ## :wavy_dash: Tools :nose: :electric_plug: :eggplant: :hammer:
 
