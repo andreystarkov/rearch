@@ -6,8 +6,8 @@
 You need a first blood to killing spree.
 Otherwords, this is how i start web projects.
 
-### :wavy_dash: Stack :hocho: :baby_chick: :chicken: :two_men_holding_hands:
-:small_orange_diamond: :feelsgood: :small_red_triangle: React<br />
+### :wavy_dash: Stack :hocho:
+:feelsgood: React<br />
 :small_orange_diamond: :finnadie: :small_red_triangle_down: React router<br />
 :small_orange_diamond: :rage4: :small_red_triangle: Styled components<br />
 :small_orange_diamond: :goberserk: :small_red_triangle_down: Redux<br />
@@ -22,7 +22,7 @@ Otherwords, this is how i start web projects.
 :small_orange_diamond: :goberserk: :small_red_triangle_down: ESLint<br />
 :small_orange_diamond: :godmode: :small_red_triangle: Standard codestyle<br >
 
-## :wavy_dash: Usage :gun: :bath: :smoking: :point_down:
+## :wavy_dash: Usage :gun:
 
 ```bash
  $ git clone  https://github.com/andreystarkov/react-first-blood ./ProjectName
@@ -32,11 +32,13 @@ Otherwords, this is how i start web projects.
  $ npm start
 ```
 
-## :wavy_dash: Build :bomb: :santa: :fork_and_knife: :money_with_wings:
+## :wavy_dash: Build :bomb:
 
 ```bash
  $ npm run build
 ```
+
+:santa: :fork_and_knife: :money_with_wings: :baby_chick: :chicken: :two_men_holding_hands: :bath: :smoking: :point_down:
 
 ## :wavy_dash: Tools :nose: :electric_plug: :eggplant: :hammer:
 
