@@ -9,19 +9,23 @@ Otherwords, this is how i start web projects.
 ### :wavy_dash: Stack
 :feelsgood: React<br />
 :finnadie: React router<br />
-:rage4: :small_red_triangle: Styled components<br />
+:rage4: Styled components<br />
 :goberserk: Redux<br />
-:rage2: :small_red_triangle: Reduxsauce<br />
+:rage2: Reduxsauce<br />
 :rage1: Seamless immutable<br />
-:hurtrealbad: :small_red_triangle: Redux persist<br />
+:hurtrealbad: Redux persist<br />
 :godmode: Redux saga<br />
-:rage3: :small_red_triangle: Apisauce<br />
+:rage3: Apisauce<br />
 :goberserk: Reselect<br />
 :finnadie: :small_red_triangle: Ramda<br />
 :suspect: :small_red_triangle: Anime.js<br />
 :goberserk: ESLint<br />
-:godmode: :small_red_triangle: Standard codestyle<br >
+:godmode: Standard codestyle<br >
 
+
+
+ :nose: :electric_plug: :eggplant: :hammer:
+ 
 ## :wavy_dash: Usage 
 
 ```bash
@@ -32,12 +36,18 @@ Otherwords, this is how i start web projects.
  $ npm start
 ```
 
+
+ :bomb: :santa: :fork_and_knife: :money_with_wings:
+ 
 ## :wavy_dash: Build 
 
 ```bash
  $ npm run build
 ```
 
+
+:hocho: :baby_chick: :chicken: :two_men_holding_hands:
+ 
 ## :wavy_dash: Tools
 
 #### :small_blue_diamond: Create a new empty, [export ready](https://github.com/andreystarkov/create-index-exports) component:
@@ -55,6 +65,10 @@ With redux/router connected
   ./screen.sh SomeScreen
 ```
 
+
+
+ :gun: :bath: :smoking: :point_down:
+ 
 ## :wavy_dash: TODO :poop: :point_up: :point_up_2: :weary:
 - [x] Base architechture
 - [x] Base tools
@@ -65,12 +79,6 @@ With redux/router connected
 - [ ] GraphQL things (Apollo)
 - [ ] SVG Animation utils
 - [ ] Prettier?
-
-
- :hocho: :baby_chick: :chicken: :two_men_holding_hands:
- :gun: :bath: :smoking: :point_down:
- :bomb: :santa: :fork_and_knife: :money_with_wings:
- :nose: :electric_plug: :eggplant: :hammer:
 
  :cop:
 
