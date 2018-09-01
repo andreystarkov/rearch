@@ -1,0 +1,21 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "mgmcdermott.vscode-language-babel",
+    "msjsdiag.debugger-for-chrome",
+    "kumar-harsh.graphql-for-vscode",
+    "shardulm94.trailing-spaces",
+    "jpoissonnier.vscode-styled-components",
+    "formulahendry.auto-complete-tag",
+    "formulahendry.auto-rename-tag",
+    "formulahendry.auto-close-tag",
+    "coenraads.bracket-pair-colorizer",
+    "naumovs.color-highlight",
+    "donjayamanne.githistory",
+    "eamodio.gitlens",
+    "wix.vscode-import-cost",
+    "lxspandora.vscode-styled-components-snippets",
+    "dsznajder.es7-react-js-snippets",
+    "esbenp.prettier-vscode"
+  ]
+}

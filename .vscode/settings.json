@@ -1,0 +1,12 @@
+{
+  "editor.tabSize": 2,
+  "eslint.enable": true,
+  // prettier rules
+  "prettier.printWidth": 110,
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "none",
+  "prettier.jsxBracketSameLine": true,
+  "prettier.semi": false,
+  "prettier.useTabs": false,
+  "prettier.eslintIntegration": true,
+}
