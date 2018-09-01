@@ -72,13 +72,17 @@ With redux/router connected
 ## :wavy_dash: TODO
 - [x] Base architechture
 - [x] Base tools
+- [x] REST things (apisauce)
+- [x] REST Api query example (redux-saga)
+- [x] GraphQL things (Apollo)
+- [x] GraphQL query example (redux-saga)
+- [x] Prettier
+- [x] VSCode package recommends
 - [ ] Reselect example
 - [ ] Example of complex sagas/stores structure
 - [ ] Tools for creating stores, sagas
 - [ ] Interactive tools with options
-- [ ] GraphQL things (Apollo)
 - [ ] SVG Animation utils
-- [ ] Prettier?
 
  :poop: :point_up: :point_up_2: :weary:
  
