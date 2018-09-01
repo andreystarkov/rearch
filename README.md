@@ -69,7 +69,7 @@ With redux/router connected
 
  :gun: :bath: :smoking: :point_down:
  
-## :wavy_dash: TODO :poop: :point_up: :point_up_2: :weary:
+## :wavy_dash: TODO
 - [x] Base architechture
 - [x] Base tools
 - [ ] Reselect example
@@ -80,5 +80,7 @@ With redux/router connected
 - [ ] SVG Animation utils
 - [ ] Prettier?
 
+ :poop: :point_up: :point_up_2: :weary:
+ 
  :cop:
 
