@@ -1,8 +1,12 @@
 import { call } from 'redux-saga/effects'
-import { log } from 'Utils/Log'
 
-export function * startup (api) {
-  // your stuff
-  const testApi = yield call(api.getRepos, 'tsvetkovpro')
-  log({ testApi })
+import { getReposListGraphQL, getReposListREST } from './GithubSagas'
+
+export function * startup (api, client) {
+
+  // REST API Query example:
+  yield call(getReposListREST, api)
+
+  // GraphQL query example:
+  yield call(getReposListGraphQL, client)
 }
