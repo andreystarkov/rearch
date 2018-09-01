@@ -2,7 +2,7 @@
 
 component="import React, { Component } from 'react'
 // import styled from 'styled-components'
-import { Grid } from 'react-styled-flexboxgrid'
+import { Grid } from 'react-flexbox-grid'
 import { BackgroundImage, Header, HeaderBack } from 'Components'
 import { ScreenWrapper, ScreenTitle } from 'Styles/CommonStyles'
 import { Colors } from 'Themes'
