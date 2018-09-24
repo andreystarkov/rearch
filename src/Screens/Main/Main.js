@@ -3,21 +3,23 @@ import { ScreenWrapper } from './MainStyles'
 
 import { Button } from 'Components'
 
+import FetchRepos from './Components/FetchRepos'
+
 export default class MainScreen extends Component {
   state = {
-    is: false
+    disabled: false
   }
   render () {
-    const { is } = this.state
-    console.log({ is })
+    const { disabled } = this.state
     return (
       <ScreenWrapper>
         <Button
-          disabled={is}
-          onClick={() => this.setState({ is: !is })}
+          disabled={disabled}
+          onClick={() => this.setState({ disabled: !disabled })}
           gradient='blue'>
-          Hey, dude!
+          {disabled ? 'I am disabled' : 'I am enabled'}
         </Button>
+        <FetchRepos />
       </ScreenWrapper>
     )
   }
