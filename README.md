@@ -1,9 +1,7 @@
 
 # React.js First Blood Kit
 
-![Rampage!](./godmode.png)
-
-Pain-reducing weapon set for fighting with big projects.
+Powerful weapon set for fighting with big projects.
 
 ## :wavy_dash: Stack
 
