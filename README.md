@@ -6,30 +6,46 @@
 You need a first blood to killing spree.
 Otherwords, this is how i start web projects.
 
-### :wavy_dash: Stack
-:feelsgood: React<br />
-:finnadie: React router<br />
-:rage4: Styled components<br />
-:goberserk: Redux<br />
-:rage2: Reduxsauce<br />
-:rage1: Seamless immutable<br />
-:hurtrealbad: Redux persist<br />
-:godmode: Redux saga<br />
-:rage3: Apisauce<br />
-:goberserk: Reselect<br />
-:finnadie: Ramda<br />
-:suspect: Anime.js<br />
-:goberserk: ESLint<br />
-:godmode: Standard codestyle<br >
+## :wavy_dash: Stack
 
+### :crown: Core
+- [React](https://reactjs.org/)
+- [React Router](https://reacttraining.com/react-router/web/guides/philosophy)
 
+### :nail_care: Layout / Styling
+- [Styled Components](https://www.styled-components.com/)
+- [Styled Media Query](https://github.com/morajabi/styled-media-query)
+- [Polished](https://polished.js.org/docs/)
 
- :nose: :electric_plug: :eggplant: :hammer:
- 
-## :wavy_dash: Usage 
+### :link: State management / Data flow
+- [Redux](https://github.com/reduxjs/redux)
+- [Redux Saga](https://redux-saga.js.org/)
+- [Reduxsauce](https://github.com/infinitered/reduxsauce)
+- [Seamless Immutable](https://github.com/rtfeldman/seamless-immutable)
+- [Redux Persist](https://github.com/rt2zz/redux-persist)
+- [Reselect](https://github.com/reduxjs/reselect)
+
+### :truck: Transport
+- [Apisauce](https://github.com/infinitered/apisauce)
+- [Apollo GraphQL Client](https://www.apollographql.com/docs/react/)
+
+### :tada: Animations
+- [Anime.js](http://animejs.com/documentation/)
+- [React FLIP Toolkit](https://github.com/aholachek/react-flip-toolkit)
+- [Animate.css](https://daneden.github.io/animate.css/)
+
+### :wrench: Utils
+- [Recompose](https://github.com/acdlite/recompose)
+- [Ramda](https://ramdajs.com/)
+
+### :cop: Code Style
+- [ESLint](https://eslint.org/)
+- [Standard Codestyle](https://standardjs.com/)
+
+## :wavy_dash: Quick start
 
 ```bash
- $ git clone  https://github.com/andreystarkov/react-first-blood ./ProjectName
+ $ git clone https://github.com/DaoCasino/dc-react-kit ./ProjectName
  $ cd ./ProjectName
  $ chmod +X ./*.sh
  $ npm i
@@ -37,20 +53,15 @@ Otherwords, this is how i start web projects.
 ```
 
 
- :bomb: :santa: :fork_and_knife: :money_with_wings:
- 
-## :wavy_dash: Build 
+## :wavy_dash: Build :fork_and_knife:
 
 ```bash
  $ npm run build
 ```
 
+## :wavy_dash: Tools :hammer:
 
-:hocho: :baby_chick: :chicken: :two_men_holding_hands:
- 
-## :wavy_dash: Tools
-
-#### :small_blue_diamond: Create a new empty, [export ready](https://github.com/andreystarkov/create-index-exports) component:
+#### :small_blue_diamond: Create new (https://github.com/andreystarkov/create-index-exports) component:
 ```bash
  $ ./component.sh SomeComponent
 ```
@@ -59,32 +70,10 @@ Now you can use it from anywhere, like:
   import { SomeComponent } from 'Components'
 ```
 
-#### :small_blue_diamond: Create an empty top-level route
-With redux/router connected
+#### :small_blue_diamond: Create an empty screen (top-level route)
+
 ```bash
   ./screen.sh SomeScreen
 ```
 
-
-
- :gun: :bath: :smoking: :point_down:
- 
-## :wavy_dash: TODO
-- [x] Base architechture
-- [x] Base tools
-- [x] REST things (apisauce)
-- [x] REST Api query example (redux-saga)
-- [x] GraphQL things (Apollo)
-- [x] GraphQL query example (redux-saga)
-- [x] Prettier
-- [x] VSCode package recommends
-- [ ] Reselect example
-- [ ] Example of complex sagas/stores structure
-- [ ] Tools for creating stores, sagas
-- [ ] Interactive tools with options
-- [ ] SVG Animation utils
-
- :poop: :point_up: :point_up_2: :weary:
- 
- :cop:
 
