@@ -3,8 +3,7 @@
 
 ![Rampage!](./godmode.png)
 
-You need a first blood to killing spree.
-Otherwords, this is how i start web projects.
+Pain-reducing weapon set for fighting with big projects.
 
 ## :wavy_dash: Stack
 
