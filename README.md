@@ -60,7 +60,7 @@ Pain-reducing weapon set for fighting with big projects.
 
 ## :wavy_dash: Tools :hammer:
 
-#### :small_blue_diamond: Create new (https://github.com/andreystarkov/create-index-exports) component:
+#### :small_blue_diamond: Create new component:
 ```bash
  $ ./component.sh SomeComponent
 ```
