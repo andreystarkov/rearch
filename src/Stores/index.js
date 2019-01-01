@@ -1,11 +1,14 @@
 import { combineReducers } from 'redux'
 import { persistReducer } from 'redux-persist'
 import configureStore from './CreateStore'
-import rootSaga from 'Sagas'
+import rootSaga from './RootSaga'
+
+import { LoginReducer } from './AuthStore'
+
 import ReduxPersist from 'Config/ReduxPersist'
 
 export const reducers = combineReducers({
-  main: require('./MainStore').reducer
+  auth: LoginReducer
 })
 
 export default () => {
@@ -22,7 +25,7 @@ export default () => {
       const nextRootReducer = require('./').reducers
       store.replaceReducer(nextRootReducer)
 
-      const newYieldedSagas = require('../Sagas').default
+      const newYieldedSagas = require('./RootSaga').default
       sagasManager.cancel()
       sagasManager.done.then(() => {
         sagasManager = sagaMiddleware.run(newYieldedSagas)

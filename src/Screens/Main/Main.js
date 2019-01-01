@@ -3,8 +3,6 @@ import { ScreenWrapper } from './MainStyles'
 
 import { Button } from 'Components'
 
-import FetchRepos from './Components/FetchRepos'
-
 export default class MainScreen extends Component {
   state = {
     disabled: false
@@ -19,7 +17,6 @@ export default class MainScreen extends Component {
           gradient='blue'>
           {disabled ? 'I am disabled' : 'I am enabled'}
         </Button>
-        <FetchRepos />
       </ScreenWrapper>
     )
   }
