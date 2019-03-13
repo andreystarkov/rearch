@@ -8,7 +8,7 @@ const REDUX_PERSIST = {
     key: 'primary',
     storage,
     // blacklist: [],
-    whitelist: ['main'],
+    whitelist: [],
     transforms: [immutablePersistenceTransform]
   }
 }

@@ -4,7 +4,7 @@ import { connect } from 'react-redux'
 import { Button } from 'Components'
 import { Container, RepoItem, ReposContainer } from '../MainStyles'
 
-import Actions from 'Stores/MainStore'
+import Actions from 'Stores/GithubStore'
 
 class FetchReposComponent extends Component {
   fetchRepos = () => {

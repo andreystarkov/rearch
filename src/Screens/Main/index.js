@@ -3,7 +3,7 @@ import { connect } from 'react-redux'
 import { withRouter } from 'react-router-dom'
 import MainScreen from './Main'
 
-import Actions from 'Stores/MainStore'
+import Actions from 'Stores/GithubStore'
 
 const MainScreenContainer = (props) => <MainScreen {...props} />
 
