@@ -6,7 +6,8 @@ import rootSaga from './RootSaga'
 import ReduxPersist from 'Config/ReduxPersist'
 
 export const reducers = combineReducers({
-  main: require('./GithubStore').reducers
+  main: require('./GithubStore').reducers,
+  test: require('./TestStore').reducers
 })
 
 export default () => {

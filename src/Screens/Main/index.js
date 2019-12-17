@@ -3,19 +3,19 @@ import { connect } from 'react-redux'
 import { withRouter } from 'react-router-dom'
 import MainScreen from './Main'
 
-import Actions from 'Stores/GithubStore'
+import Actions from 'Stores/TestStore'
 
 const MainScreenContainer = (props) => <MainScreen {...props} />
 
 const mapStateToProps = (state) => {
   return {
-    main: state.main
+    data: state.test.data
   }
 }
 
 const mapDispatchToProps = (dispatch) => {
   return {
-    updateStore: params => dispatch(Actions.updateStore(params))
+    fetchRequest: params => dispatch(Actions.fetchRequest(params))
   }
 }
 
